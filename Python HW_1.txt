@@ -1,10 +1,29 @@
 Python HW_1
 
-1) Создать переменную типа String
-2) Создать переменную типа Integer
-3) Создать переменную типа Float
-4) Создать переменную типа Bytes
-5) Создать переменную типа List
+1)# Create String Variable
+name = 'Nataliya'
+print(name, type(name))
+
+2)# Create Integer Variable
+age = 39
+print(age, type(age))
+
+3)# Creat Float variable
+pi_number = 3.14159265
+print(pi_number, type(pi_number))
+
+4)# Create Bytes Variable
+b_item=bytes(10)
+print(b_item, type(b_item))
+
+
+5) Create List variable
+
+countries_list=['Ukraine', 'Turkey', 'Slovakia']
+print(list, type(list))
+
+
+
 6) Создать переменную типа Tuple
 7) Создать переменную типа Set
 8. Создать переменную типа Frozen set
